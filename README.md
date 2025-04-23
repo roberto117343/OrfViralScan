@@ -44,15 +44,15 @@ Although there are numerous tools for ORF prediction, specific tasks such as tra
     *   Converts standard multi-line FASTA files into a strict two-line format per sequence (one header line and one sequence line).
     *   Essential to ensure compatibility and prevent errors with other OrfViralScan functions.
 
-4.  **Split into Fragments:**
-    *   Splits a large FASTA file (typically a long genome) into several non-overlapping smaller FASTA files (default: 100,000 nt).
+4.  **Divide Into Fragments:**
+    *   Divide a large FASTA file (typically a long genome) into several non-overlapping smaller FASTA files (default: 100,000 nt).
     *   Enables ORF Search on fragments of very large genomes, reducing memory and performance issues.
 
 ## Examples and Use Cases
 
 *   **SARS-CoV-2 Analysis:** Successful identification of known ORFs (e.g., ORF3a, E, M, N, Spike) in the reference genome (NC_045512.2).
 *   **Spike Tracking:** Successful retrieval of the Spike ORF sequence in 983 out of 1000 complete SARS-CoV-2 genomes using `Track Specific ORF` with appropriate length and range parameters.
-*   **Handling Large Genomes:** Demonstrated fragmentation of the E. coli K-12 genome (~4.6 Mbp) using `Split into Fragments` for piecewise ORF analysis.
+*   **Handling Large Genomes:** Demonstrated fragmentation of the E. coli K-12 genome (~4.6 Mbp) using `Divide Into Fragments` for piecewise ORF analysis.
 
 ## Requirements
 
@@ -61,17 +61,17 @@ Although there are numerous tools for ORF prediction, specific tasks such as tra
 
 ## Installation and Usage
 
-1.  Download the latest `OrfViralScan3.jar` file from the [Releases](<link_to_releases_page>) page of this repository.
+1.  Download the latest `OrfViralScan-3.0.jar` file from the [Releases](<link_to_releases_page>) page of this repository.
 2.  Make sure Java 11 is installed and accessible from your system's PATH variable.
 3.  Open a terminal or command prompt, navigate to the folder where you downloaded the file, and run:
     ```bash
-    java -jar OrfViralScan3.jar
+    java -jar OrfViralScan-3.0.jar
     ```
 4.  The GUI will appear. Follow these general steps:
     *   Click `Input` to select your FASTA file.
     *   Choose the desired type of `Calculation` from the dropdown menu.
     *   Adjust the necessary parameters according to the selected calculation (e.g., length, strand, range, nt/aa).
-    *   Click `Output` to define the name and location of the output file(s). For 'Split into Fragments', the output is a folder.
+    *   Click `Output` to define the name and location of the output file(s). For 'Divide Into Fragments', the output is a folder.
     *   Click `Calculate` to start the process. Click `Cancel` to abort.
 
 ## Limitations
@@ -79,7 +79,7 @@ Although there are numerous tools for ORF prediction, specific tasks such as tra
 *   **Start Codon:** Currently only recognizes ATG as a start codon. Alternative start codons are not detected.
 *   **Bacterial ORFs:** Does not specifically search for Shine-Dalgarno sequences, which are important for bacterial ORF identification.
 *   **Overlapping ORFs:** Ignores new ATG codons within ORFs on the same frame.
-*   **Performance:** `ORF Search` can be slow on very large sequences, although `Split into Fragments` helps mitigate this.
+*   **Performance:** `ORF Search` can be slow on very large sequences, although `Divide Into Fragments` helps mitigate this.
 *   **Ambiguity:** `Track Specific ORF` may identify incorrect ORFs if parameters are too broad and there are multiple matches in the region. Manual verification (e.g., with MEGA) is recommended for critical results.
 
 ## Future Development
