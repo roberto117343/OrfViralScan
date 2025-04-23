@@ -17,11 +17,6 @@ Bioinformatics program for the identification of open reading frames (ORF)
   </a>
 </p>
 <br>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/roberto117343/OrfViralScan/main/OrfViralScan/src/main/java/com/RRF/OrfViralScan/Logo/OrfViralScan_GUI.png" 
-       alt="GUI Interface of OrfViralScan 3.0" width="600"/>
-</p>
-<p align="center"><em>Figure: Main interface of OrfViralScan 3.0, showing input/output selection and calculation options</em></p>
 
 ## Motivation
 
