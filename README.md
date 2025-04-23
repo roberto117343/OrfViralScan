@@ -3,7 +3,7 @@
 Bioinformatics program for the identification of open reading frames (ORF)
 
 <p align="center">
-  <img src="<path_to_logo_image.png>" alt="OrfViralScan Logo" width="200"/>
+  <img src="<p[ath_to_logo_image.png](https://github.com/roberto117343/OrfViralScan/blob/main/OrfViralScan/src/main/java/com/RRF/OrfViralScan/Logo/Logo%20OrfViralScan.png)>" alt="OrfViralScan Logo" width="200"/>
 </p>
 <p align="center"><em>Official logo of OrfViralScan 3.0</em></p>
 
