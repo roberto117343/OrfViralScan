@@ -2,14 +2,23 @@
 
 Bioinformatics program for the identification of open reading frames (ORF)
 
+<p align="center">
+  <img src="<path_to_logo_image.png>" alt="OrfViralScan Logo" width="200"/>
+</p>
+<p align="center"><em>Official logo of OrfViralScan 3.0</em></p>
+
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Java Version](https://img.shields.io/badge/Java-11+-orange.svg)]()
+[![Java Version](https://img.shields.io/badge/Java-11-orange.svg)]()
 [![Platform](https://img.shields.io/badge/Platform-Cross--Platform-lightgrey.svg)]()
 
 **OrfViralScan 3.0** is a user-friendly, standalone desktop application designed to simplify the fundamental bioinformatics tasks of Open Reading Frame (ORF) identification and analysis, particularly within viral genomes. Developed in Java, it provides an intuitive Graphical User Interface (GUI) wrapping several key functionalities, making ORF analysis accessible without requiring complex command-line operations or scripting.
 
-![OrfViralScan 3.0 GUI](<path_to_your_figure1_image.png>)
-*(Caption: Main interface of OrfViralScan 3.0, showing input/output selection and calculation options)*
+> **Disclaimer:** OrfViralScan 3.0 has passed strict quality control testing. However, the developers are not responsible for any damage or loss that may result from the use of this software.
+
+<p align="center">
+  <img src="<path_to_your_figure1_image.png>" alt="OrfViralScan 3.0 GUI" width="600"/>
+</p>
+<p align="center"><em>Caption: Main interface of OrfViralScan 3.0, showing input/output selection and calculation options</em></p>
 
 ## Motivation
 
