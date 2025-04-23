@@ -8,16 +8,18 @@ Bioinformatics program for the identification of open reading frames (ORF)
 </p>
 <p align="center"><em>Official logo of OrfViralScan 3.0</em></p>
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)  
-[![Java Version](https://img.shields.io/badge/Java-11-orange.svg)]()  
-[![Platform](https://img.shields.io/badge/Platform-Cross--Platform-lightgrey.svg)]()
-
-**OrfViralScan 3.0** is an easy-to-use desktop application designed to simplify essential bioinformatics tasks related to the identification and analysis of open reading frames (ORFs), especially in viral genomes. Developed in Java, it offers an intuitive graphical user interface (GUI) that integrates several key features, making ORF analysis accessible without the need for complex command-line operations or scripting.
-
-> **Disclaimer:** OrfViralScan 3.0 has passed strict quality control tests. However, the developers are not responsible for any damage or loss resulting from the use of this software.
+<p align="center">
+  <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License: GPL v3"/>
+  <img src="https://img.shields.io/badge/Java-11-orange.svg" alt="Java Version"/>
+  <img src="https://img.shields.io/badge/Platform-Cross--Platform-lightgrey.svg" alt="Platform"/>
+  <a href="https://URL_TO_YOUR_JAR_FILE_HERE" style="display:inline-block; margin-left: 20px; padding: 8px 16px; background-color:#4CAF50; color:white; text-decoration:none; border-radius:5px;">
+    ⬇ Download OrfViralScan 3.0
+  </a>
+</p>
 
 <p align="center">
-  <img src="<path_to_your_image_figure1.png>" alt="GUI Interface of OrfViralScan 3.0" width="600"/>
+  <img src="https://raw.githubusercontent.com/roberto117343/OrfViralScan/main/OrfViralScan/src/main/java/com/RRF/OrfViralScan/Logo/OrfViralScan_GUI.png" 
+       alt="GUI Interface of OrfViralScan 3.0" width="600"/>
 </p>
 <p align="center"><em>Figure: Main interface of OrfViralScan 3.0, showing input/output selection and calculation options</em></p>
 
