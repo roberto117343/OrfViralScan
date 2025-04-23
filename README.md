@@ -18,6 +18,8 @@ Bioinformatics program for the identification of open reading frames (ORF)
 </p>
 <br>
 
+> **Disclaimer:** OrfViralScan 3.0 has passed strict quality control testing. However, the developers are not responsible for any damage or loss that may result from the use of this software.
+
 ## Motivation
 
 Although there are numerous tools for ORF prediction, specific tasks such as tracking a particular ORF across many related viral sequences or handling large files often require custom scripts or combining several programs. OrfViralScan 3.0 integrates these common workflows into a single user-friendly application.
