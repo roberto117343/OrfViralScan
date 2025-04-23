@@ -11,7 +11,7 @@ Bioinformatics program for the identification of open reading frames (ORF)
 <p align="center">
   <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License: GPL v3"/>
   <img src="https://img.shields.io/badge/Java-11-orange.svg" alt="Java Version"/>
-  <img src="https://img.shields.io/badge/Platform-Cross--Platform-lightgrey.svg" alt="Platform"/><br>
+  <img src="https://img.shields.io/badge/Platform-Cross--Platform-lightgrey.svg" alt="Platform"/><br><br>
   <a href="https://URL_TO_YOUR_JAR_FILE_HERE" style="display:inline-block; margin-left: 20px; padding: 8px 16px; background-color:#4CAF50; color:white; text-decoration:none; border-radius:5px;">
     ⬇ Download OrfViralScan 3.0
   </a>
