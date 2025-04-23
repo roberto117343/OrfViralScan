@@ -58,7 +58,7 @@ Although there are numerous tools for ORF prediction, specific tasks such as tra
 
 ## Installation and Usage
 
-1.  Download the latest `OrfViralScan-3.0.jar` file from the [Releases](<link_to_releases_page>) page of this repository.
+1.  Download the latest `OrfViralScan-3.0.jar`.
 2.  Make sure Java 11 is installed and accessible from your system's PATH variable.
 3.  Open a terminal or command prompt, navigate to the folder where you downloaded the file, and run:
     ```bash
