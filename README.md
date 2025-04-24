@@ -42,7 +42,7 @@ Although there are numerous tools for ORF prediction, specific tasks such as tra
     *   Essential to ensure compatibility and prevent errors with other OrfViralScan functions.
 
 4.  **Divide Into Fragments:**
-    *   Divide a large FASTA file (typically a long genome) into several non-overlapping smaller FASTA files (default: 100,000 nt).
+    *   Divides a large FASTA file (typically a long genome) into several smaller non-overlapping FASTA files (default: 100,000 nt). Note: This function is designed to operate on a FASTA file containing a single large sequence.
     *   Enables ORF Search on fragments of very large genomes, reducing memory and performance issues.
 
 ## Examples and Use Cases
