@@ -37,7 +37,7 @@ Although there are numerous tools for ORF prediction, specific tasks such as tra
     *   Ideal for phylogenetic studies, gene variant tracking, or homolog search.
     *   Outputs a FASTA file containing only the identified ORFs.
 
-3.  **File Preprocessing:**
+3.  **Preprocess File:**
     *   Converts standard multi-line FASTA files into a strict two-line format per sequence (one header line and one sequence line).
     *   Essential to ensure compatibility and prevent errors with other OrfViralScan functions.
 
@@ -83,7 +83,7 @@ Although there are numerous tools for ORF prediction, specific tasks such as tra
 
 *   Option to search for alternative start codons.
 *   Improved algorithms for faster ORF detection.
-*   Support for additional output formats (e.g., GFF3).
+*   Support for additional output formats.
 *   Enhanced annotation features.
 
 ## How to Cite
