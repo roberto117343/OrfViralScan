@@ -88,7 +88,7 @@ Although there are numerous tools for ORF prediction, specific tasks such as tra
 
 ## How to Cite
 
-*   Coming soon
+> Reinosa R. *OrfViralScan 3.0: An intuitive tool for the identification and tracking of open reading frames in viral genomes.* bioRxiv 2025.04.26.650794; doi: [10.1101/2025.04.26.650794](https://doi.org/10.1101/2025.04.26.650794)
 
 ## License
 
