@@ -58,11 +58,11 @@ Although there are numerous tools for ORF prediction, specific tasks such as tra
 
 ## Installation and Usage
 
-1.  Download the latest `OrfViralScan-3.0.jar`.
+1.  Download the latest `OrfViralScan-3.1.jar`.
 2.  Make sure Java 11 is installed and accessible from your system's PATH variable.
 3.  Open a terminal or command prompt, navigate to the folder where you downloaded the file, and run:
     ```bash
-    java -jar OrfViralScan-3.0.jar
+    java -jar OrfViralScan-3.1.jar
     ```
 4.  The GUI will appear. Follow these general steps:
     *   Click `Input` to select your FASTA file.
