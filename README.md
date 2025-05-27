@@ -1,4 +1,4 @@
-# OrfViralScan 3.0
+# OrfViralScan 3.1
 
 Bioinformatics program for the identification of open reading frames (ORF)
 
@@ -6,7 +6,7 @@ Bioinformatics program for the identification of open reading frames (ORF)
   <img src="https://raw.githubusercontent.com/roberto117343/OrfViralScan/main/OrfViralScan/src/main/java/com/RRF/OrfViralScan/Logo/Logo%20OrfViralScan.png"
        alt="OrfViralScan Logo" width="200"/>
 </p>
-<p align="center"><em>Official logo of OrfViralScan 3.0</em></p>
+<p align="center"><em>Official logo of OrfViralScan 3.1</em></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License: GPL v3"/>
@@ -18,11 +18,11 @@ Bioinformatics program for the identification of open reading frames (ORF)
 </p>
 <br>
 
-> **Disclaimer:** OrfViralScan 3.0 has passed strict quality control testing. However, the developers are not responsible for any damage or loss that may result from the use of this software.
+> **Disclaimer:** OrfViralScan 3.1 has passed strict quality control testing. However, the developers are not responsible for any damage or loss that may result from the use of this software.
 
 ## Motivation
 
-Although there are numerous tools for ORF prediction, specific tasks such as tracking a particular ORF across many related viral sequences or handling large files often require custom scripts or combining several programs. OrfViralScan 3.0 integrates these common workflows into a single user-friendly application.
+Although there are numerous tools for ORF prediction, specific tasks such as tracking a particular ORF across many related viral sequences or handling large files often require custom scripts or combining several programs. OrfViralScan 3.1 integrates these common workflows into a single user-friendly application.
 
 ## Key Features
 
